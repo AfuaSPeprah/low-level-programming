@@ -5,7 +5,7 @@
  * @s : input string
  * Return: integer
  */
-int_atoi(char *s)
+void int _atoi(char *s)
 {
 	int i, d, n, len, f, digit
 
